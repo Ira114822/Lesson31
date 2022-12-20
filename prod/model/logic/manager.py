@@ -19,4 +19,4 @@ class Manager:
             amount *= hour
             return amount
         else:
-            raise Exception
+            raise Exception()
